@@ -19,7 +19,6 @@
 - [🛠️ Tech Stack](#-tech-stack)
 - [🏗️ Architecture](#-architecture)
 - [⚡ Quick Start](#-quick-start)
-
 - [💼 Recruiter Highlights](#-recruiter-highlights)
 - [🔮 Future Enhancements](#-future-enhancements)
 - [📄 License](#-license)
@@ -238,7 +237,6 @@ SOFTWARE.
 ---
 
 <div align="center">
-  <p><strong>Built with ❤️ by Sarthak</strong></p>
   <p><em>Transforming market data into actionable trading intelligence</em></p>
 </div>
 
